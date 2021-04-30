@@ -1,0 +1,3 @@
+- Hi, I’m Mohammadjavad Z.Sotudeh
+- I’m interested in Urban Informatics & Urban Big Data Analysis
+- I’m currently learning Python, PyScripting in ArcGIS Pro, SQL, and also some ML Algorithms
